@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "ecmel.vscode-html-css",
+        "solnurkarim.html-to-css-autocompletion",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "vincaslt.highlight-matching-tag",
+        "anteprimorac.html-end-tag-labels",
+        "pucelle.vscode-css-navigation",
+        "stylelint.vscode-stylelint",
+        "styled-components.vscode-styled-components",
+        "pkief.material-icon-theme",
+        "ritwickdey.liveserver"
+    ]
+}
